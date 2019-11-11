@@ -1,0 +1,26 @@
+[
+  {
+    "key": "eu-east-1",
+    "latitude": 50.110924,
+    "longitude": 8.682127,
+    "name": "Frankfurt"
+  },
+  {
+    "key": "eu-west-1",
+    "latitude": 53.350140,
+    "longitude": -6.266155,
+    "name": "Dublin"
+  },
+  {
+    "key": "us-east-1",
+    "latitude": 37.7680,
+    "longitude": -78.2057,
+    "name": "Virginia"
+  },
+  {
+    "key": "us-west-2",
+    "latitude": 44.5672,
+    "longitude": -122.1269,
+    "name": "Oregon"
+  }
+]
